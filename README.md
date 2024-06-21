@@ -2,7 +2,6 @@
 
 <h2 class="papername"> 
   Cue-N: Cue-Aware Network for Audio-Visual Question Answering 
-:fire: The codes will be released. Stay tuned!
 </h2>
 
 
