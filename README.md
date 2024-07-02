@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2 class="papername"> 
-  Cue-N: Cue-Aware Network for Audio-Visual Question Answering 
+  CueNet: A Cue-Aware Network for Audio-Visual Question Answering 
 </h2>
 
 
